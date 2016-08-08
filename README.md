@@ -23,7 +23,7 @@
 
   for testing 
   ```
-  caffe test -model=res20_cifar_train_test.prototxt -weights=ResNet_20.caffemodel -gpu 0
+  caffe test -model=res20_cifar_train_test.prototxt -weights=ResNet_20.caffemodel -iterations=100 -gpu 0
   ```
   
   
