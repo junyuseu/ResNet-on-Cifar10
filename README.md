@@ -25,3 +25,10 @@
   ```
   caffe test -model=res20_cifar_train_test.prototxt -weights=ResNet_20.caffemodel -gpu 0
   ```
+  
+  
+## Result
+![Result](https://github.com/fish145/ResNet-on-Cifar10/blob/master/test.PNG)
+  
+  
+
