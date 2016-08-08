@@ -18,11 +18,11 @@ The network structure is here:[ethereon](http://ethereon.github.io/netscope/#/gi
 ##Usage
 
 for training
-'''
+...
 caffe train -solver=solver.prototxt -gpu 0
-'''
+...
 
 for testing 
-'''
+...
 caffe test -model=res20_cifar_train_test.prototxt -weights=ResNet_20.caffemodel -gpu 0
-'''
+...
