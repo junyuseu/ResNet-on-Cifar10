@@ -31,5 +31,7 @@
 ## Result
 ![ResNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
   
-  
+##Blog address
+ [zhihu](https://zhuanlan.zhihu.com/p/22071346)
+ [csdn](http://blog.csdn.net/yj3254/article/details/52244402)
 
