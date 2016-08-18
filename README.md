@@ -13,8 +13,8 @@
 ## Structure
 
   The network structure is here:
-  [ResNet_20](http://ethereon.github.io/netscope/#/gist/544993a5985bb87e11443dc1dbcb4881)
-  [PlainNet_20](http://ethereon.github.io/netscope/#/gist/18200c298ed00d846cfd511babe70a9b)
+  	[ResNet_20](http://ethereon.github.io/netscope/#/gist/544993a5985bb87e11443dc1dbcb4881)
+  	[PlainNet_20](http://ethereon.github.io/netscope/#/gist/18200c298ed00d846cfd511babe70a9b)
 ## Usage
 
   for training
@@ -29,9 +29,9 @@
   
   
 ## Result
-ResNet-20:
-![Result](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
-PlainNet-20:
+	ResNet-20:
+	![Result](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
+	PlainNet-20:
   
   
 
