@@ -28,7 +28,6 @@ layer {
   }
   transform_param {
     mean_file: "../../mean.binaryproto"
-    crop_size: 28
   }
   data_param {
     source: "../../cifar10_test_lmdb"
