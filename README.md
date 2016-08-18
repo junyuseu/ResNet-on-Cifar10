@@ -29,7 +29,9 @@
   
   
 ## Result
+ResNet-20:
 ![Result](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
+PlainNet-20:
   
   
 
