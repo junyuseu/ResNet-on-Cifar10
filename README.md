@@ -30,7 +30,7 @@
   
 ## Result
 ![ResNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
-![PlainNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/PlainNet-20/test.PNG)
+<br/>![PlainNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/PlainNet-20/test1.PNG)
   
 ##Blog address
  <br/>[zhihu](https://zhuanlan.zhihu.com/p/22071346)
