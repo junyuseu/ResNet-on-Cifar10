@@ -21,6 +21,6 @@ display: 100
 max_iter: 100000
 # snapshot intermediate results
 snapshot: 10000
-snapshot_prefix: "cifar10_res20"
+snapshot_prefix: "cifar10_res56"
 # solver mode: CPU or GPU
 solver_mode: GPU
