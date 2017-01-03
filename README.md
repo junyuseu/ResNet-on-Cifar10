@@ -9,6 +9,8 @@
 ## Introduction
 
   Reimplementation ResNet on cifar10
+  <br/>You can get cifar10_train(test)_lmdb by script/convert_cifar10_lmdb.py and cifar10_pad4_train_lmdb by script/pad_cifar10.py
+  and mean_pad.binaryproto by script/compute_mean.py
 
 ## Structure
 
@@ -29,8 +31,8 @@
   
   
 ## Result
-![ResNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/ResNet-20/test.PNG)
-<br/>![PlainNet-20](https://github.com/fish145/ResNet-on-Cifar10/blob/master/PlainNet-20/test1.PNG)
+![ResNet(DA)](https://github.com/fish145/ResNet-on-Cifar10/blob/master/data_augmentation/accuracy.png)
+<br/>![compare](https://github.com/fish145/ResNet-on-Cifar10/blob/master/without_data_augmentation/compare.png)
   
 ##Blog address
  <br/>[zhihu](https://zhuanlan.zhihu.com/p/22071346)
