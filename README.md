@@ -32,9 +32,9 @@
   
   
 ## Result
-Result with data augmentation:
+#Result with data augmentation:
 ![ResNet(DA)](https://github.com/fish145/ResNet-on-Cifar10/blob/master/data_augmentation/accuracy.png)
-Compare result(without data augmentation):
+#Compare result(without data augmentation):
 <br/>![compare](https://github.com/fish145/ResNet-on-Cifar10/blob/master/without_data_augmentation/compare.png)
   
 ##Blog address
