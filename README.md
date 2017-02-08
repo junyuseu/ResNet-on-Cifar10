@@ -1,4 +1,4 @@
-### Citation
+## Citation
 	@article{He2015,
 	    author = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
 	    title = {Deep Residual Learning for Image Recognition},
