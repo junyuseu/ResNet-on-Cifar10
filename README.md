@@ -11,7 +11,7 @@
 ## Introduction
 
   This repository reimplements resnet experiments on cifar10 with caffe according to the paper "Deep Residual Learning for Image Recognition" (http://arxiv.org/abs/1512.03385).
-  The data augmentation means 4 pixels are padded on each side for every images during training.You can make datasets prepared by use the scripts.
+  The data augmentation means 4 pixels are padded on each side for every images during training. You can make datasets prepared by using the scripts.
 
 ## Structure
 
@@ -20,7 +20,7 @@
   	<br/>[PlainNet_20](http://ethereon.github.io/netscope/#/gist/18200c298ed00d846cfd511babe70a9b)
 	
 ## Usage
-  First, you should make sure that your caffe is correctly installed.You can follow this blog's instructions if you use windows.(https://zhuanlan.zhihu.com/p/22129880)
+  First, you should make sure that your caffe is correctly installed. You can follow this blog's instructions if you use windows.(https://zhuanlan.zhihu.com/p/22129880)
 
   for training
   ```
@@ -36,23 +36,23 @@
 ## Result
 ###Result with data augmentation:
 ![ResNet(DA)](https://github.com/fish145/ResNet-on-Cifar10/blob/master/data_augmentation/accuracy.png)
-	model|Repeated|Reference
-	:---:|:---:|:---:
-	20lyaers|91.94%|91.25%
-	32layers|92.70%|92.49%%
-	44layers|93.01%|92.83%
-	56layers|93.19%|93.03%
-	110layers|93.56%|93.39%
+		model|Repeated|Reference
+		:---:|:---:|:---:
+		20lyaers|91.94%|91.25%
+		32layers|92.70%|92.49%%
+		44layers|93.01%|92.83%
+		56layers|93.19%|93.03%
+		110layers|93.56%|93.39%
 **notice**:We got even better results than the original paper
 ###Compare result(without data augmentation):
 <br/>![compare](https://github.com/fish145/ResNet-on-Cifar10/blob/master/without_data_augmentation/compare.png)
-	model|PlainNet|ResNet
-	:---:|:---:|:---:
-	20lyaers|90.10%|91.74%
-	32layers|86.96%|92.23%%
-	44layers|84.45%|92.67%
-	56layers|85.26%|93.09%
-	110layers||93.27%
+		model|PlainNet|ResNet
+		:---:|:---:|:---:
+		20lyaers|90.10%|91.74%
+		32layers|86.96%|92.23%%
+		44layers|84.45%|92.67%
+		56layers|85.26%|93.09%
+		110layers||93.27%
 ##Blog address
  <br/>[zhihu](https://zhuanlan.zhihu.com/p/22071346)
 
