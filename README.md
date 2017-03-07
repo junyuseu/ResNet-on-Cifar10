@@ -11,7 +11,7 @@
 ## Introduction
 
   This repository reimplements resnet experiments on cifar10 with caffe according to the paper "Deep Residual Learning for Image Recognition" (http://arxiv.org/abs/1512.03385).
-  The data augmentation means 4 pixels are padded on each side for every images during training.You can get cifar10_train(test)_lmdb by script/convert_cifar10_lmdb.py,cifar10_pad4_train(test)_lmdb by script/pad_cifar10.py and mean_pad.binaryproto by script/compute_mean.py.
+  The data augmentation means 4 pixels are padded on each side for every images during training.You can make datasets prepared by use the scripts.
 
 ## Structure
 
