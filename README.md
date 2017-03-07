@@ -51,7 +51,7 @@
 		32layers|86.96%|92.23%
 		44layers|84.45%|92.67%
 		56layers|85.26%|93.09%
-		110layers||93.27%
+		110layers|X|93.27%
 
 ##Blog address
  <br/>[zhihu](https://zhuanlan.zhihu.com/p/22071346)
