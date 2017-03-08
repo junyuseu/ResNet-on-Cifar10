@@ -42,7 +42,7 @@
 		44 layers|93.01%|92.83%
 		56 layers|93.19%|93.03%
 		110 layers|93.56%|93.39%
-**notice**:We got even better results than the original paper
+**notice**:'Repeated' means reimplementation results and 'Reference' means result in the paper.**We got even better results than the original paper**
 
 ###Compare result(without data augmentation):
 		model|PlainNet|ResNet
