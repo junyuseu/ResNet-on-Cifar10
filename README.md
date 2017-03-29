@@ -34,7 +34,7 @@
   
   
 ## Result
-###Result with data augmentation:
+### Result with data augmentation:
 		model|Repeated|Reference
 		:---:|:---:|:---:
 		20 lyaers|91.94%|91.25%
@@ -44,7 +44,7 @@
 		110 layers|93.56%|93.39%
 **notice**:'Repeated' means reimplementation results and 'Reference' means result in the paper.**We got even better results than the original paper**
 
-###Compare result(without data augmentation):
+### Compare result(without data augmentation):
 		model|PlainNet|ResNet
 		:---:|:---:|:---:
 		20 lyaers|90.10%|91.74%
@@ -53,6 +53,6 @@
 		56 layers|85.26%|93.09%
 		110 layers|X|93.27%
 
-##Blog address
+## Blog address
  <br/>[zhihu](https://zhuanlan.zhihu.com/p/22071346)
 
